@@ -1,6 +1,6 @@
 <!-- Title Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Caizew!;Python+Learner+%F0%9F%90%8D;Future+AI+%26+ML+Engineer;Always+Learning+%F0%9F%93%9A" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Foziljon!;Python+Learner+%F0%9F%90%8D;Future+AI+%26+ML+Engineer;Always+Learning+%F0%9F%93%9A" />
 </p>
 
 ---
@@ -28,17 +28,19 @@
 
 ---
 
-## 📊 GitHub Stats (Working Fix)
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caizew&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caizew&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
+
+> **⚠️ Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username (e.g., `Foziljon123`) for stats to display correctly.
 
 ---
 
-## 🔥 Streak Stats (Also Working)
+## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Caizew&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

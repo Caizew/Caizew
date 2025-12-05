@@ -8,8 +8,8 @@
 ## 👨‍💻 About Me
 - 📚 Currently learning **Python, Data Analysis, AI & ML Basics**
 - 🔢 Improving skills in **math for machine learning**
-- 🧠 Interested in **AI entrepreneurship** in the future  
-- 🎯 My goal: Become strong in **Python + ML + Data Science**
+- 🧠 Future goal: **AI Entrepreneur**
+- 🎯 Becoming strong in **Python + ML + Data Science**
 
 ---
 
@@ -28,15 +28,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Works Without Vercel)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caizew&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caizew&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg" width="85%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg" height="160">
+  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commits-language.svg" height="160">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg" height="160">
+  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/4-productive-time.svg" height="160">
 </p>
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak Stats (Working)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Caizew&theme=tokyonight&hide_border=true" />
 </p>

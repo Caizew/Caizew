@@ -1,39 +1,49 @@
+<!-- Title Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Caizew!;AI+Enthusiast+%F0%9F%94%A5;Backend+Developer+%F0%9F%92%BB;Future+ML+Engineer+%F0%9F%A4%96" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00E5FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Caizew!;Python+Learner+%F0%9F%90%8D;Future+AI+%26+ML+Engineer;Always+Learning+%F0%9F%93%9A" />
 </p>
 
 ---
 
-## 🚀 About Me
-- 🔥 Aspiring **Backend & AI Developer**  
-- 🧠 Learning **Python, FastAPI, ML, Data Science**  
-- 🌱 Growing daily with discipline and focus  
-- 🎯 Goal: Build AI startups that help people  
+## 👨‍💻 About Me
+- 📚 Currently learning **Python, Data Analysis, AI & ML Basics**
+- 🔢 Improving skills in **math for machine learning**
+- 🧠 Interested in **AI entrepreneurship** in the future  
+- 🎯 My goal: Become strong in **Python + ML + Data Science**
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack (Current Skills)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,linux,git,github,html,css,js,nodejs,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,github,git,mysql" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/seaborn-4C8BF5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Working Fix)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caizew&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caizew&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Caizew&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caizew&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak  
+## 🔥 Streak Stats (Also Working)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Caizew&theme=tokyonight&border_radius=10" />
+  <img src="https://streak-stats.demolab.com?user=Caizew&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  🌟 *Thank you for visiting my profile!* 🌟
+  🌟 *Thanks for visiting my profile!* 🌟  
 </p>
+

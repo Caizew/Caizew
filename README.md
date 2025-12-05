@@ -26,24 +26,7 @@
   <img src="https://img.shields.io/badge/matplotlib-11557c?style=for-the-badge" />
 </p>
 
----
 
-## 📊 GitHub Stats (Works Without Vercel)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/0-profile-details.svg" width="85%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg" height="160">
-  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/2-most-commits-language.svg" height="160">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/3-stats.svg" height="160">
-  <img src="https://raw.githubusercontent.com/Caizew/github-profile-summary-cards/master/profile-summary-card-output/dracula/4-productive-time.svg" height="160">
-</p>
-
----
 
 ## 🔥 GitHub Streak Stats (Working)
 <p align="center">

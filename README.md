@@ -34,13 +34,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caizew&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-> **⚠️ Note:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username (e.g., `Foziljon123`) for stats to display correctly.
-
 ---
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Caizew&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -48,4 +46,3 @@
 <p align="center">
   🌟 *Thanks for visiting my profile!* 🌟  
 </p>
-
